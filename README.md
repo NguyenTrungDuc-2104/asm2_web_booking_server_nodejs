@@ -1,8 +1,9 @@
 I. Giới thiệu project
 
-Tên project: Server website booking
-Mục tiêu: Xây dựng phần server xử lý các thao tác liên quan đến dữ liệu dưới Database bằng Node.js cho website booking
-Công nghệ sử dụng: Node.js/Express, MongoDB
+- Tên project: Server website booking
+- Mục tiêu: Xây dựng phần server xử lý các thao tác liên quan đến dữ liệu dưới Database bằng Node.js cho website booking
+- Công nghệ sử dụng: Node.js/Express, MongoDB
+
 II. Hướng dẫn
 
 1, Dowload source code
